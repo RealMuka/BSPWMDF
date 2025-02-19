@@ -1,0 +1,2 @@
+# BSPWMDF
+my bspwm dotfiles
